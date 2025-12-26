@@ -34,7 +34,7 @@ Example
 here, 4 is the number of intervals, 2 is the length of individual interval array, followed by the intervals.
 
 Constraints
-
+   
 0 <= intervals.length <= 100000
 intervals[i].length == 2 for all 0 <= i < intervals.length
 0 <= intervals[i][0] < intervals[i][1] <= 10^9 for all 0 <= i < intervals.length
