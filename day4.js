@@ -4,7 +4,7 @@ Given an unsorted array of integers, find the smallest positive integer not pres
 Example
 
 Input
-
+     
 orderNumbers = [3, 4, -1, 1]
 Output
 
