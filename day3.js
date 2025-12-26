@@ -11,7 +11,7 @@ M = 2
 Output
 
 2
-Explanation
+Explanation  
 
 We need subarrays with sum = 3 and all elements ≤ 2. 
 Also, any subarray containing 3 is invalid because 3 > M. Check all starts:
