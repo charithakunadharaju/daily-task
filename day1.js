@@ -29,7 +29,7 @@ Example
 300
 here 4 is the length of array, followed by the elements of array on each line.
 
-Constraints
+Constraints  
 
 0 <= responseTimes.length <= 1000
 1 <= responseTimes[i] <= 10^9 for 0 <= i < responseTimes.length
