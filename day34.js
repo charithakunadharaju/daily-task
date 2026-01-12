@@ -14,7 +14,6 @@ Output:
 
 240.0
 Explanation:
-
 Compute revenue per MB for each stream: [60/10=6, 100/20=5, 120/30=4].
 Sort by density descending.
 Take full 10 MB of stream 0 for 60, remaining bandwidth 40.
